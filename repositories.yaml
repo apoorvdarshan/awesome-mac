@@ -214,7 +214,7 @@ categories:
         repos:
           - url: https://github.com/Ducksss/codex-profiles
             description: Manage named Codex homes and separate ChatGPT windows
-          - url: https://github.com/apoorvdarshan/browser-cookie-bridge
+          - url: https://github.com/aopv/browser-cookie-bridge
             description: Transfer signed-in sessions between local Chromium browsers and ChatGPT Codex on macOS.
           - url: https://github.com/isaced/CubicBezier
           - url: https://github.com/Avazbek22/DevProjex
@@ -301,7 +301,7 @@ categories:
       - name: Download Tools
         repos:
           - url: https://github.com/agalwood/Motrix
-          - url: https://github.com/apoorvdarshan/hash-harbor
+          - url: https://github.com/aopv/hash-harbor
             description: Local torrent streamer and downloader with a native engine and browser interface
           - url: https://github.com/qbittorrent/qBittorrent
           - url: https://github.com/transmission/transmission
